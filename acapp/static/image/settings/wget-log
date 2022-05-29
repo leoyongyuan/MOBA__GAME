@@ -1,0 +1,11 @@
+--2022-03-30 14:29:44--  https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F4b6cbfe574f79cb521bc3b1e9021d8d38c66f35422b2-fAI03X_fw658
+Resolving gimg2.baidu.com (gimg2.baidu.com)... 14.215.89.36, 240e:ff:9008:501::7169:ac24
+Connecting to gimg2.baidu.com (gimg2.baidu.com)|14.215.89.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8820 (8.6K) [image/png]
+Saving to: 'src=http:%2F%2Fhbimg.b0.upaiyun.com%2F4b6cbfe574f79cb521bc3b1e9021d8d38c66f35422b2-fAI03X_fw658'
+
+           src=http:%   0%[                        ]       0  --.-KB/s               src=http:%2F%2Fhbimg. 100%[=======================>]   8.61K  --.-KB/s    in 0s      
+
+2022-03-30 14:29:45 (218 MB/s) - 'src=http:%2F%2Fhbimg.b0.upaiyun.com%2F4b6cbfe574f79cb521bc3b1e9021d8d38c66f35422b2-fAI03X_fw658' saved [8820/8820]
+
